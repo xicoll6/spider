@@ -2,8 +2,10 @@
 
 1.音乐爬取
 1.1按指定歌名爬取
+https://github.com/xicoll6/spider/blob/master/QQ_music_singer.py
 
 1.2按指定歌手爬取
+https://github.com/xicoll6/spider/blob/master/QQ_music_song.py
 
 2.其他
 2.1免费代理链接爬取
